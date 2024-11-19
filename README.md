@@ -12,6 +12,11 @@ The objective of this project is to create a deep learning model that can succes
 - Training and evaluation of the model
 - Testing the model with new images to make predictions
 
+## Dataset and Model Files
+
+The dataset and model files are too large to be uploaded directly to GitHub. You can download them from the following links:
+- [**Dataset**](https://drive.google.com/file/d/1nDqpPQVxTz6Qdp9braTCnQR-SHV1n_Hh/view?usp=sharing)
+  
 ## Steps to Perform
 
 ### 1. **Data Preparation**
