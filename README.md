@@ -4,9 +4,9 @@
 
 This project is an image classification task where a Convolutional Neural Network (CNN) is trained to classify images of cats and dogs. The model is built using TensorFlow and Keras and aims to predict whether an image contains a cat or a dog. The dataset consists of labeled images of cats and dogs, which are preprocessed and fed into the model to train it to make accurate predictions.
 
-## Dataset and Model Files
+## Dataset Files
 
-The dataset and model files are too large to be uploaded directly to GitHub. You can download them from the following links:
+The dataset files are too large to be uploaded directly to GitHub. You can download them from the following links:
 - [**Dataset**](https://drive.google.com/file/d/1nDqpPQVxTz6Qdp9braTCnQR-SHV1n_Hh/view?usp=sharing)
 
 ## Objective
